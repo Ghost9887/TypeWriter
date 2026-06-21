@@ -2,6 +2,7 @@
 
 ## Features
 - Just a typewriter effect
+- Just copy the header file into your project and done
 
 ## Example
 ```
