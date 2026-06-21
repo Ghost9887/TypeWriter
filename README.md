@@ -5,13 +5,13 @@
 
 ## Example
 ```
-#include <typewriter.h>
+#include "typewriter.h"
 
 int main() {
     std::string str { "This is a test" };
-    float pause_duration { 0.1 };
+    float pause_duration { 0.1f };
 
-    typewriter_effect(str, pause_duartion);
+    typewriter_effect(str, pause_duration);
     return 0;
 }
 ```
